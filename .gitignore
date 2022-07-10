@@ -36,7 +36,4 @@ build/
 log/
 .mvn/
 demo-web.iml
-mvnw*
-mvnw.cmd
-pom.xml
 .DS_Store
